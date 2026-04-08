@@ -11,12 +11,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Wishing you success, happiness, and everything your heart desires and hope we always stay togather. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! I love u :3 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
