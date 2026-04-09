@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires and hope we always stay togather. ✨ ", 
+        text: "Wishing you success, happiness, and everything your heart desires and hope we always stay together. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
